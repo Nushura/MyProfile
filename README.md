@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Nushura Islam's profile</title>
 </head>
 <body>
 
-<h1>G'Day People
+<h1>G'Day People!
 Welcome to my Profile</h1>
 
 <br><br>
@@ -61,9 +60,9 @@ hiring their employees.</p>
 <br><br>
 <a href="https://www.seek.com.au/job/50294716?type=standard#searchRequestToken=5f4eea04-d92d-44d1-832c-d786a4ed07ad">Link</a>
 <br><br>
-<img src="seek s1" alt="Screen shot no. 1" style="width:1221px;height:693px;">
-<img src="seek s2" alt="Screen shot no. 2" style="width:1214px;height:696px;">
-<img src="seek s3" alt="Screen shot no. 3" style="width:1220px;height:687px;">
+<img src="seek s1" alt="Screen shot no. 1" style="width:1221px;height:693px;"> <br>
+<img src="seek s2" alt="Screen shot no. 2" style="width:1214px;height:696px;"> <br>
+<img src="seek s3" alt="Screen shot no. 3" style="width:1220px;height:687px;"> <br>
 <br><br>
 <p>  In my opinion ideal job is something that will motivate you to work every day. If it is something that makes everyday a misery for you then
 it should not be called ideal. It obviously may need a lot of time for an individual to know about what they are truly passionate about but however,
@@ -86,7 +85,7 @@ As I am still on the process of getting an IT degree so, at first I will need to
 working under software development, I will be eligible for working at 'Genisys Australia'. Moreover, I am good at communicating so I believe that
 communicating with customers will not be an issue but there is always room for development. So, I will have to try to improve my communication skills
 as well by doing part time works where I have to deal with consumers.</p>
-<br><br
+<br><br>
 <h2 style="background-color:Violet;">~Personal Profile~</h2>
 
 <br><br>
