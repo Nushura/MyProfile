@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Nushura Islam's profile</title>
 </head>
 <body>
 
-<h1>G'Day People
+<h1>G'Day People!
 Welcome to my Profile</h1>
 
 <br><br>
@@ -86,7 +85,7 @@ As I am still on the process of getting an IT degree so, at first I will need to
 working under software development, I will be eligible for working at 'Genisys Australia'. Moreover, I am good at communicating so I believe that
 communicating with customers will not be an issue but there is always room for development. So, I will have to try to improve my communication skills
 as well by doing part time works where I have to deal with consumers.</p>
-<br><br
+<br><br>
 <h2 style="background-color:Violet;">~Personal Profile~</h2>
 
 <br><br>
