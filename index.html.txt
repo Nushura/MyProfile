@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nushura Islam's profile</title>
+</head>
+<body>
+
+<h1>G'Day People
+Welcome to my Profile</h1>
+
+<h1>Introduction</h1>
+
+<p>Hello everyone! I am Nushura Islam, people call me Nush. A student at rmit university and getting
+on Bachelors of Information Technology(IT).
+Student number: s3796107
+Email: s3796107@student.rmit.edu.au
+       nushuraislam@gmail.com</p>
+
+</body>
+</html>
