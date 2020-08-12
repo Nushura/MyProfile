@@ -8,7 +8,7 @@
 Welcome to my Profile</h1>
 
 <br><br>
-![](Images/IMG_20200304_195931_845.jpg)
+<img src= "Images/IMG_20200304_195931_845.jpg" width="400">
 <br><br>
 
 <h2 style="background-color:Violet;">~Introduction~</h2>
@@ -60,9 +60,10 @@ hiring their employees.</p>
 <br><br>
 <a href="https://www.seek.com.au/job/50294716?type=standard#searchRequestToken=5f4eea04-d92d-44d1-832c-d786a4ed07ad">Job link</a>
 <br><br>
-![](Images/seek%20s1.PNG) <br>
-![](Images/seek%20s2.PNG) <br>
-![](Images/seek%20s3.PNG) <br>
+<img src= "Images/seek&20s1.PNG" width="400"> <br>
+<img src= "Images/seek%20s2.PNG" width="400"> <br>
+<img src= "Images/seek%20s3.PNG" width="400"> <br>
+
 <br><br>
 <p>  In my opinion ideal job is something that will motivate you to work every day. If it is something that makes everyday a misery for you then
 it should not be called ideal. It obviously may need a lot of time for an individual to know about what they are truly passionate about but however,
