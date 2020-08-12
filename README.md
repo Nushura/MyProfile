@@ -60,9 +60,9 @@ hiring their employees.</p>
 <br><br>
 <a href="https://www.seek.com.au/job/50294716?type=standard#searchRequestToken=5f4eea04-d92d-44d1-832c-d786a4ed07ad">Job link</a>
 <br><br>
-<img src= "Images/seek&20s1.PNG" width="500"> <br>
-<img src= "Images/seek%20s2.PNG" width="500"> <br>
-<img src= "Images/seek%20s3.PNG" width="500"> <br>
+<img src= "Images/seek%20s1.PNG" width="600"> <br>
+<img src= "Images/seek%20s2.PNG" width="600"> <br>
+<img src= "Images/seek%20s3.PNG" width="600"> <br>
 
 <br><br>
 <p>  In my opinion ideal job is something that will motivate you to work every day. If it is something that makes everyday a misery for you then
