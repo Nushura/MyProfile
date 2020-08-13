@@ -39,7 +39,7 @@ learn more, my interests keeps on rising. You might be wondering then that how c
 about it, right? Well, when I was on my high school, I often used to get worried thinking about what subject should I pursue my higher education on.
 I could not think of anything but until later at a point I realized that I was actually interested in getting to know and understand
 about how the computing world works. Earlier there were many discussions happening between my family members and I, about my higher
-education and finally I could come into a conclusion that I should study IT. The person who helped me come to that conclusion was my
+education and finally I could come into a conclusion that I should study IT. The person who helped me come to that conclusion were my
 siblings as they could understand what will be truly the best for me. </p>
 <br><br>
 <p>  There are many students who dreams of attending certain universities and in the same way I have dreamt of attending RMIT.
@@ -78,10 +78,10 @@ of a software development.</p>
 <p>  If you want a job somewhere, you can not just have it with whatever qualification you have, right? 'Genisys Australia' has certain requirements as
 well. The employee must have a degree related to software development. They must also have prior experience of few years in working on projects
 related with software development, must have good communication skills so that they can talk with their stakeholders and so that they are content with the
-service they are getting, must have knowledge about few front-end languages and Relational Database Management Systems. </p>
+service they are getting, must have knowledge about few coding languages and Relational Database Management Systems. </p>
 <br><br>
 <p>  However, I still do not have a solid knowledge about these requirements yet but just the basics. I need to know more in detail about the
-front-end languages and Relational Database Management Systems. I will gain more knowledge about those by the time I will be finishing my degree.
+coding languages and Relational Database Management Systems. I will gain more knowledge about those by the time I will be finishing my degree.
 As I am still on the process of getting an IT degree so, at first I will need to finish the degree and then with few extra years of experience on
 working under software development, I will be eligible for working at 'Genisys Australia'. Moreover, I am good at communicating so I believe that
 communicating with customers will not be an issue but there is always room for development. So, I will have to try to improve my communication skills
