@@ -165,6 +165,23 @@ use the app. Moreover, including these points there are many other aspects as we
 <p>  In conclusion, if this project is successful then it will create a huge platform where there can be a lot of collaboration. It will give the consumers a wide
 variety of clothes option to choose from and all of which are in their own taste of fashion. They can get to see their favourite products all in one place. It
 can even save a lot of time of people who stays too busy to plan their outfits every day. Overall, it can benefit fashion-oriented people in many ways.</p>
+<br><br>
+
+<h2 style="background-color:SlateBlue;">~References~</h2>
+<br><br>
+
+<h>Ideal Job<h> <br>
+  <h>1. Seek: </h> <br>
+  
+<h>Tests Taken </h> <br>
+  <h>2. Myer-Briggs Type Indicator(MBTI) test result: <br>
+    <h> 16Personalities n.d, Nushura Islam, viewed 11 August 2020, <https://www.16personalities.com/profiles/ffa37bf0b0e8c> </h>
+      <br><br>
+  <h>3. Learning style test result: <br>
+    <h> personalitymax 2020, Nushura Islam's Personality Max Report, viewed 11 August 2020, <https://personalitymax.com/report/?ls=64-56-56&name_key=04c96c4f21> </h>
+      <br><br>
+  <h>4. Big Five Personality test result: <br>
+    <h> openpsychometrics n.d,Open Source Psychometrics Project-Results summary, viewed 11 August 2020, <https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_IV> </h>
 
 </body>
 </html>
