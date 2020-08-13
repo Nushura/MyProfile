@@ -16,9 +16,9 @@ Welcome to my Profile</h1>
 <p>  Hello everyone! I am Nushura Islam, people call me Nush. A student at rmit university and
 studying on Bachelors of Information Technology(IT).
 <br><br>
-Student number: s3796107
-Email: s3796107@student.rmit.edu.au
-       nushuraislam@gmail.com</p>
+Student number: s3796107 <br>
+Email: s3796107@student.rmit.edu.au <br>
+              nushuraislam@gmail.com</p>
 <br><br>
 <h2 style="background-color:Violet;">~Some facts about me~</h2>
 
@@ -90,9 +90,9 @@ as well by doing part time works where I have to deal with consumers.</p>
 <h2 style="background-color:Violet;">~Personal Profile~</h2>
 
 <br><br>
-<a href="https://www.16personalities.com/profiles/ffa37bf0b0e8c">1. Myer-Briggs Type Indicator(MBTI) test result</a>
-<a href="https://personalitymax.com/report/?ls=64-56-56&name_key=04c96c4f21">2. Learning style test result</a>
-<a href="https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_IV">3. Big Five Personality test result</a>
+<a href="https://www.16personalities.com/profiles/ffa37bf0b0e8c">1. Myer-Briggs Type Indicator(MBTI) test result</a> <br>
+<a href="https://personalitymax.com/report/?ls=64-56-56&name_key=04c96c4f21">2. Learning style test result</a> <br>
+<a href="https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_IV">3. Big Five Personality test result</a> <br>
 <br><br>
 
 <p>  These kind of online tests are used by the people who hire so that they can get an overview of the type of employees they will be taking into their
