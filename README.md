@@ -172,9 +172,10 @@ can even save a lot of time of people who stays too busy to plan their outfits e
 
 <h>Ideal Job<h> <br>
   <h>1. Seek: </h> <br>
-  
-<h>Tests Taken </h> <br>
-  <h>2. Myer-Briggs Type Indicator(MBTI) test result: <br>
+    <h>seek 27 July 2020, Software Developer-Genisys Australia, viewed 10 August 2020, <https://www.seek.com.au/job/50294716?type=standard#searchRequestToken=5f4eea04-d92d-44d1-832c-d786a4ed07ad> </h> 
+      <br><br>
+  <h>Tests Taken </h> <br>
+   <h>2. Myer-Briggs Type Indicator(MBTI) test result: <br>
     <h> 16Personalities n.d, Nushura Islam, viewed 11 August 2020, <https://www.16personalities.com/profiles/ffa37bf0b0e8c> </h>
       <br><br>
   <h>3. Learning style test result: <br>
@@ -182,6 +183,7 @@ can even save a lot of time of people who stays too busy to plan their outfits e
       <br><br>
   <h>4. Big Five Personality test result: <br>
     <h> openpsychometrics n.d,Open Source Psychometrics Project-Results summary, viewed 11 August 2020, <https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_IV> </h>
-
+       <br><br>
+      
 </body>
 </html>
