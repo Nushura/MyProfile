@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>style="background-color:Pink;">G'Day People!
+<h1 style="background-color:Pink;">G'Day People!
 Welcome to my Profile</h1>
 
 <br><br>
