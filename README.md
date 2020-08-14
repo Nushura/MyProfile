@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1 style="background-color:Pink;">G'Day People!
+<h1 style="background-color:Aquamarine;">G'Day People!
 Welcome to my Profile</h1>
 
 <br><br>
@@ -170,20 +170,40 @@ can even save a lot of time of people who stays too busy to plan their outfits e
 <h2 style="background-color:SlateBlue;">~References~</h2>
 <br><br>
 
-<h>Ideal Job<h> <br>
+<h>Ideal Job</h> <br>
 <h>1. Seek: </h> <br>
-<h>seek 27 July 2020, Software Developer-Genisys Australia, viewed 10 August 2020, <https://www.seek.com.au/job/50294716?type=standard#searchRequestToken=5f4eea04-d92d-44d1-832c-d786a4ed07ad> </h> 
+<h>seek 27 July 2020, Software Developer-Genisys Australia, viewed 10 August 2020, <https://www.seek.com.au/job/50294716?type=standard#searchRequestToken=5f4eea04-d92d-44d1-832c-d786a4ed07ad> . </h> 
 <br><br>
 <h>Tests Taken </h> <br>
-<h>2. Myer-Briggs Type Indicator(MBTI) test result: <br>
-<h> 16Personalities n.d, Nushura Islam, viewed 11 August 2020, <https://www.16personalities.com/profiles/ffa37bf0b0e8c> </h>
+  <h>2. Myer-Briggs Type Indicator(MBTI) test result: </h> <br>
+<h> 16Personalities n.d, Nushura Islam, viewed 11 August 2020, <https://www.16personalities.com/profiles/ffa37bf0b0e8c> . </h>
 <br><br>
-<h>3. Learning style test result: <br>
-<h> personalitymax 2020, Nushura Islam's Personality Max Report, viewed 11 August 2020, <https://personalitymax.com/report/?ls=64-56-56&name_key=04c96c4f21> </h>
+<h>3. Learning style test result: </h> <br>
+<h> personalitymax 2020, Nushura Islam's Personality Max Report, viewed 11 August 2020, <https://personalitymax.com/report/?ls=64-56-56&name_key=04c96c4f21> . </h>
 <br><br>
-<h>4. Big Five Personality test result: <br>
-<h> openpsychometrics n.d,Open Source Psychometrics Project-Results summary, viewed 11 August 2020, <https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_IV> </h>
+<h>4. Big Five Personality test result: </h> <br>
+<h> openpsychometrics n.d,Open Source Psychometrics Project-Results summary, viewed 11 August 2020, <https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_IV> . </h>
 <br><br>
-      
+<h>Project Idea </h> <br>
+<h>5. Keyword research: </h> <br>
+<h>Jay stockwell n.d., KEYWORD RESEARCH TOOLS-KeywordWorkshop.com, viewed 14 August 2020, <https://www.keyworddiscovery.com/static/keyword-tool-reviews.pdf> . </h> 
+<br><br>
+<h>6. Classified advertisements: </h> <br>
+<h>Taina Bucher 25 Feb 2016, Information, Communication & Society, viewed 14 August 2020, <https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2016.1154086?needAccess=true> .
+</h> 
+<br><br>
+<h>7. Flutter: </h> <br>
+<h>Rajesh muthyala 15 May 2019, Flutter For Mobile Applications, Medium, viewed 14 August 2020, <https://medium.com/@rajesh.muthyala/flutter-for-mobile-applications-b1905dbb66e2> .</h> 
+<br><br>
+<h>8. Google Firebase: </h> <br>
+<h>Doug Stevenson 25 September 2018, What is Firebase? The complete story, abridged, Medium, viewed 14 August 2020, <https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0> . </h> 
+<br><br>
+<h>9. Rest API(Application Programming Interface): </h> <br>
+<h>Andrew Slate 31 May 2019, Application Programming Interface (API), Explained, Wrike, viewed 14 August 2020, <https://www.wrike.com/blog/application-programming-interface-api-explained/> .</h> 
+<br><br>
+<h>10. E-commerce site: </h> <br>
+<h>Stephen Gomory, Robert Hoch, Juhnyoung Lee, Mark Podlaseck, Edith Schonberg, n.d., E-Commerce Intelligence: Measuring, Analyzing, and Reporting on Merchandising Effectiveness of Online Stores, IBM T.J. Watson Research Center, viewed 14 August 2020, <http://facweb.cs.depaul.edu/mobasher/classes/ect584/papers/gomory.pdf> .</h> 
+<br><br>
+
 </body>
 </html>
