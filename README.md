@@ -1,10 +1,11 @@
+<!DOCTYPE html>
 <html>
 <head>
 <title>Nushura Islam's profile</title>
 </head>
 <body>
 
-<h1 style="background-color:Aquamarine;">G'Day People!
+<h1 style="background-color:Salmon;">G'Day People!
 Welcome to my Profile</h1>
 
 <br><br>
@@ -167,7 +168,7 @@ variety of clothes option to choose from and all of which are in their own taste
 can even save a lot of time of people who stays too busy to plan their outfits every day. Overall, it can benefit fashion-oriented people in many ways.</p>
 <br><br>
 
-<h2 style="background-color:SlateBlue;">~References~</h2>
+<h2 style="background-color:Violet;">~References~</h2>
 <br><br>
 
 <h>Ideal Job</h> <br>
